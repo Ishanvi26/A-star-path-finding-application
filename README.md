@@ -1,2 +1,2 @@
-# A-star-path-finding-aaplication
+# A-star-path-finding-application
  Based on A-star algorithm
